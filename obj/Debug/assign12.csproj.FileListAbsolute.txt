@@ -1,0 +1,8 @@
+C:\dialytask\Day_10\assign12\bin\Debug\assign12.exe.config
+C:\dialytask\Day_10\assign12\bin\Debug\assign12.exe
+C:\dialytask\Day_10\assign12\bin\Debug\assign12.pdb
+C:\dialytask\Day_10\assign12\obj\Debug\assign12.csproj.AssemblyReference.cache
+C:\dialytask\Day_10\assign12\obj\Debug\assign12.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_10\assign12\obj\Debug\assign12.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_10\assign12\obj\Debug\assign12.exe
+C:\dialytask\Day_10\assign12\obj\Debug\assign12.pdb
